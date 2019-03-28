@@ -3,7 +3,7 @@ const config = {
     pword: "root",
     host: "localhost",
     port: "3306",
-    database: "db_marvel"
+    database: "db_marvel" 
 
 }
 
