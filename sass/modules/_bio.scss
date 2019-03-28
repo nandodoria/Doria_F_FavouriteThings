@@ -1,0 +1,41 @@
+.biotext
+{
+    font-size: 16px;
+    color: #333333;
+}
+
+.bioheader
+{
+    color: #333333;
+}
+
+#biosection img
+{
+    float: left;
+    width: 40%;
+}
+
+#bioright
+{
+    float: right;
+    width: 55%;
+}
+
+#biosection
+{
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 550px) {
+    #biosection img
+{
+    float: left;
+    width: 100%;
+}
+
+#bioright
+{
+    float: right;
+    width: 100%;
+}
+}
